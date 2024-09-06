@@ -85,3 +85,11 @@ public class Rosetta implements Runnable {
         System.out.println("Running in a thread");
     }
 }
+/* 
+class RosettaImpl extends Rosetta {
+
+    @Override
+    public void abstractMethod() {
+        System.out.println("Abstract method implemented");
+    }
+}*/
